@@ -37,3 +37,4 @@ Apache-2.0 © [MIse]()
 [coveralls-image]: https://coveralls.io/repos/MIseChow/generator-mise-vue-cli/badge.svg
 [coveralls-url]: https://coveralls.io/r/MIseChow/generator-mise-vue-cli
 "# generator-mise-vue-cli" 
+"# generator-mise-vue-cli" 
