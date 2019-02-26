@@ -17,7 +17,7 @@ module.exports = class extends Generator {
         type: 'input',
         name: 'name',
         message: 'Name of project:',
-        default: path.basename(process.cwd())
+        default: 'vue-project'
       },
       {
         type: 'input',
